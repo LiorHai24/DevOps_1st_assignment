@@ -4,7 +4,7 @@ public class LiorHai
     {
 		for(int i = 1; i<=10; i++)
 		{
-			System.out.println("LiorHai trying to change the code " +i);
+			System.out.println("LiorHai trying to change the Code " +i);
 		}
 	}
 }
